@@ -19,13 +19,27 @@
 ### 🧑‍💻 Tech Stack
 
 <div style="display: flex; gap: 10px; align-items: center;">
-  <img src="https://i.imgur.com/bzWyPrV.png" width="50" alt="Python">
-  <img src="https://i.imgur.com/v92lxJg.png" width="50" alt="HTML">
-  <img src="https://i.imgur.com/yh2dpCs.png" width="50" alt="CSS">
-  <img src="https://i.imgur.com/4yyGBvm.png" width="50" alt="JavaScript">
-  <img src="https://i.imgur.com/834DEfK.png" width="50" alt="SQL">
-  <img src="https://i.imgur.com/BlRCvyx.png" width="50" alt="GitHub">
-  <img src="https://i.imgur.com/xqQufKu.png" width="50" alt="Git">
+  <img src="https://i.imgur.com/bzWyPrV.png" width="50" alt="Python" style="transition: box-shadow 0.3s ease;"
+     onmouseover="this.style.boxShadow='0 0 10px rgba(0, 153, 255, 0.6)'"
+     onmouseout="this.style.boxShadow='none'">
+  <img src="https://i.imgur.com/v92lxJg.png" width="50" alt="HTML" style="transition: box-shadow 0.3s ease;"
+     onmouseover="this.style.boxShadow='0 0 10px rgba(0, 153, 255, 0.6)'"
+     onmouseout="this.style.boxShadow='none'">
+  <img src="https://i.imgur.com/yh2dpCs.png" width="50" alt="CSS" style="transition: box-shadow 0.3s ease;"
+     onmouseover="this.style.boxShadow='0 0 10px rgba(0, 153, 255, 0.6)'"
+     onmouseout="this.style.boxShadow='none'">
+  <img src="https://i.imgur.com/4yyGBvm.png" width="50" alt="JavaScript" style="transition: box-shadow 0.3s ease;"
+     onmouseover="this.style.boxShadow='0 0 10px rgba(0, 153, 255, 0.6)'"
+     onmouseout="this.style.boxShadow='none'">
+  <img src="https://i.imgur.com/834DEfK.png" width="50" alt="SQL" style="transition: box-shadow 0.3s ease;"
+     onmouseover="this.style.boxShadow='0 0 10px rgba(0, 153, 255, 0.6)'"
+     onmouseout="this.style.boxShadow='none'">
+  <img src="https://i.imgur.com/BlRCvyx.png" width="50" alt="GitHub" style="transition: box-shadow 0.3s ease;"
+     onmouseover="this.style.boxShadow='0 0 10px rgba(0, 153, 255, 0.6)'"
+     onmouseout="this.style.boxShadow='none'">
+  <img src="https://i.imgur.com/xqQufKu.png" width="50" alt="Git" style="transition: box-shadow 0.3s ease;"
+     onmouseover="this.style.boxShadow='0 0 10px rgba(0, 153, 255, 0.6)'"
+     onmouseout="this.style.boxShadow='none'">
 </div>
 
 ---
