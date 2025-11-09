@@ -1,7 +1,7 @@
 <div align="center">
   <h1>Hola, soy <a src='https://instagram/whoisronystar'>Ronald</a> 👨‍💻</h1>
   <p><strong>Desarrollador autodidacta enfocado en interfaces gráficas, experiencia de usuario y soluciones funcionales.</strong></p>
-  <img src="https://imgur.com/a/dhWF7Z2" width="200" alt="Ronald Avatar">
+  <img src="https://i.imgur.com/n17jGgB.jpeg" width="200" alt="Ronald Avatar">
 </div>
 
 ---
