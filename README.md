@@ -16,9 +16,15 @@
 
 ---
 
-###🧑‍💻 Tech Stack
+### 🧑‍💻 Tech Stack
 
-- <img src="https://i.imgur.com/bzWyPrV.png" width=50 alt="Python">
+<img src="https://i.imgur.com/bzWyPrV.png" width=50 alt="Python">
+<img src="https://i.imgur.com/v92lxJg.png" width=50 alt="HTML">
+<img src="https://i.imgur.com/yh2dpCs.png" width=50 alt="CSS">
+<img src="https://i.imgur.com/4yyGBvm.png" width=50 alt="JavaScript">
+<img src="https://i.imgur.com/834DEfK.png" width=50 alt="SQL">
+<img src="https://i.imgur.com/BlRCvyx.png" width=50 alt="GitHub">
+<img src="https://i.imgur.com/xqQufKu.png" width=50 alt="Git">
 
 ---
 
