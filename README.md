@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Hola, soy <a href='https://instagram/whoisronystar'>Ronald</a> 👨‍💻</h1>
+  <h1>Hola, soy <a href='https://instagram.com/whoisronystar'>Ronald</a> 👨‍💻</h1>
   <p><strong>Desarrollador autodidacta enfocado en interfaces gráficas, experiencia de usuario y soluciones funcionales.</strong></p>
   <img src="https://i.imgur.com/n17jGgB.jpeg" width="200" alt="Ronald Avatar">
 </div>
