@@ -1,7 +1,7 @@
 <div align="center">
   <h1>Hola, soy Ronald 👨‍💻</h1>
   <p><strong>Desarrollador autodidacta enfocado en interfaces gráficas, experiencia de usuario y soluciones funcionales.</strong></p>
-  <img src="https://i.imgur.com/Wskj8cn.jpe" width="200" alt="Ronald Avatar">
+  <img src="https://imgur.com/a/dhWF7Z2" width="200" alt="Ronald Avatar">
 </div>
 
 ---
