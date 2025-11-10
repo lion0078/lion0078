@@ -3,7 +3,6 @@
   <p><strong>Self-taught developer focused on graphical interfaces, user experience and functional solutions.</strong></p>
   <img src="https://i.imgur.com/n17jGgB.jpeg" alt="Ronald Avatar">
 </div>
-[![GitHub followers](https://img.shields.io/github/followers/lion0078?style=social)](https://github.com/lion0078)
 
 ---
 
