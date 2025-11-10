@@ -2,6 +2,7 @@
   <h1>Hi, I'm <a href='https://instagram.com/whoisronystar' blank>Ronald</a> 👨‍💻</h1>
   <p><strong>Self-taught developer focused on graphical interfaces, user experience and functional solutions.</strong></p>
   <img src="https://i.imgur.com/n17jGgB.jpeg" alt="Ronald Avatar">
+  ![Seguidores](https://img.shields.io/github/followers/TU_USUARIO?label=Seguidores&style=social)
 </div>
 
 ---
