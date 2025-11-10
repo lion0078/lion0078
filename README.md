@@ -66,7 +66,6 @@
 - 📧 Email: *[belloconcepcionr@gmail.com]*
 
 ---
-<button style="background: #011627, border-radius: 12">Escribir al Gmail</button>
 
 <div align="center">
   <strong>Thank you for visiting my profile 🙌</strong><br>
