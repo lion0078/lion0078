@@ -1,72 +1,61 @@
 <div align="center">
-  <h1>Hi, I'm <a href='https://instagram.com/whoisronystar' blank>Ronald</a> 👨‍💻</h1>
-  <p><strong>Self-taught developer focused on graphical interfaces, user experience and functional solutions.</strong></p>
-  <img src="https://i.imgur.com/n17jGgB.jpeg" alt="Ronald Avatar">
+  <img src="https://i.imgur.com/n17jGgB.jpeg" alt="Ronald Avatar" width="220" style="border-radius: 50%; box-shadow: 0 0 10px rgba(0,0,0,0.2);">
+  <h1>Hi, I'm <a href="https://instagram.com/whoisronystar" target="_blank" style="color:#1e90ff;">Ronald</a> 👨‍💻</h1>
+  <p><strong><span style="color:#1e90ff;">Self-taught developer</span> focused on graphical interfaces, user experience and functional solutions.</strong></p>
 </div>
 
 ---
 
-### 🚀 About me
+### 🚀 About Me
 
-- 🧠 Learning programming every day
-- 🛠️ I create apps with graphical interface and databases
-- 🎨 I am passionate about visual design and code organization
-- 📚 Clear documentation and professional presentation
-- 📈 Always looking to improve the user experience
+- 🧠 Constant learner in software development  
+- 🛠️ Builder of apps with intuitive UIs and solid database integration  
+- 🎨 Lover of clean design and modular code  
+- 📚 Advocate for clear documentation and professional presentation  
+- 📈 Obsessed with improving user experience through iteration
 
 ---
 
 ### 🧑‍💻 Tech Stack
 
-<div style="display: flex; gap: 10px; align-items: center;">
-  <img src="https://i.imgur.com/bzWyPrV.png" width="50" alt="Python" style="transition: box-shadow 0.3s ease;"
-     onmouseover="this.style.boxShadow='0 0 10px rgba(0, 153, 255, 0.6)'"
-     onmouseout="this.style.boxShadow='none'">
-  <img src="https://i.imgur.com/v92lxJg.png" width="50" alt="HTML" style="transition: box-shadow 0.3s ease;"
-     onmouseover="this.style.boxShadow='0 0 10px rgba(0, 153, 255, 0.6)'"
-     onmouseout="this.style.boxShadow='none'">
-  <img src="https://i.imgur.com/yh2dpCs.png" width="50" alt="CSS" style="transition: box-shadow 0.3s ease;"
-     onmouseover="this.style.boxShadow='0 0 10px rgba(0, 153, 255, 0.6)'"
-     onmouseout="this.style.boxShadow='none'">
-  <img src="https://i.imgur.com/4yyGBvm.png" width="50" alt="JavaScript" style="transition: box-shadow 0.3s ease;"
-     onmouseover="this.style.boxShadow='0 0 10px rgba(0, 153, 255, 0.6)'"
-     onmouseout="this.style.boxShadow='none'">
-  <img src="https://i.imgur.com/834DEfK.png" width="50" alt="SQL" style="transition: box-shadow 0.3s ease;"
-     onmouseover="this.style.boxShadow='0 0 10px rgba(0, 153, 255, 0.6)'"
-     onmouseout="this.style.boxShadow='none'">
-  <img src="https://i.imgur.com/BlRCvyx.png" width="50" alt="GitHub" style="transition: box-shadow 0.3s ease;"
-     onmouseover="this.style.boxShadow='0 0 10px rgba(0, 153, 255, 0.6)'"
-     onmouseout="this.style.boxShadow='none'">
-  <img src="https://i.imgur.com/xqQufKu.png" width="50" alt="Git" style="transition: box-shadow 0.3s ease;"
-     onmouseover="this.style.boxShadow='0 0 10px rgba(0, 153, 255, 0.6)'"
-     onmouseout="this.style.boxShadow='none'">
+<div align="center" style="display: flex; flex-wrap: wrap; gap: 15px; justify-content: center; padding: 10px;">
+  <img src="https://i.imgur.com/bzWyPrV.png" width="50" alt="Python" title="Python">
+  <img src="https://i.imgur.com/v92lxJg.png" width="50" alt="HTML" title="HTML">
+  <img src="https://i.imgur.com/yh2dpCs.png" width="50" alt="CSS" title="CSS">
+  <img src="https://i.imgur.com/4yyGBvm.png" width="50" alt="JavaScript" title="JavaScript">
+  <img src="https://i.imgur.com/834DEfK.png" width="50" alt="SQL" title="SQL">
+  <img src="https://i.imgur.com/BlRCvyx.png" width="50" alt="GitHub" title="GitHub">
+  <img src="https://i.imgur.com/xqQufKu.png" width="50" alt="Git" title="Git">
 </div>
 
 ---
 
-### 📊 Statistics
+### 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RonaldDev&show_icons=true&theme=radical)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=RonaldDev&show_icons=true&theme=radical" alt="GitHub Stats">
+</div>
 
 ---
 
 ### 📂 Featured Projects
 
-| Project | Description | Technologies |
-|---------|-------------|-------------|
-| 🎬 Movie Search Engine | App using API OMDB | Python, requests, Tkinter |
-| 🗃️ SQLite Browser | Visual Database Browser | Python, customtkinter, SQLite |
-| 📺 Web Player | Online Video Player | HTML, CSS, JS |
+| 💡 Project | 📝 Description | 🧰 Technologies |
+|-----------|----------------|----------------|
+| 🎬 **Movie Search Engine** | App using OMDB API to search movies | Python, requests, Tkinter |
+| 🗃️ **SQLite Browser** | Visual interface for SQLite databases | Python, customtkinter, SQLite |
+| 📺 **Web Player** | Online video player with custom UI | HTML, CSS, JavaScript |
 
 ---
 
-### 📫 Contact
+### 📫 Contact Me
 
-- 📺 Instagram: *@whoisronystar*
-- 📧 Email: *[belloconcepcionr@gmail.com]*
+- 📷 Instagram: [@whoisronystar](https://instagram.com/whoisronystar)  
+- 📧 Email: [belloconcepcionr@gmail.com](mailto:belloconcepcionr@gmail.com)
 
 ---
 
 <div align="center">
-  <strong>Thank you for visiting my profile 🙌</strong><br>
+  <strong style="font-size: 1.1em;">Thanks for visiting my profile 🙌</strong><br>
+  <em>Let’s build something amazing together.</em>
 </div>
