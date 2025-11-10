@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Hi, I'm <a href='https://instagram.com/whoisronystar' blank>Ronald</a> 👨‍💻</h1>
-  <p><strong>Self-taught developer focused on graphical interfaces, user experience and functional solutions.</strong></p>
+  <p><strong>Self-taught <span style="color: #1e90ff; font-weight: bold;">developer</span> focused on graphical interfaces, user experience and functional solutions.</strong></p>
   <img src="https://i.imgur.com/n17jGgB.jpeg" alt="Ronald Avatar">
 </div>
 
