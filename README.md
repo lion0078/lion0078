@@ -37,8 +37,7 @@
 
 <div align="center">
 
-  <h2 style="color:#ff79c6;">📊 Estadísticas de GitHub</h2>
-  <img src="https://github-readme-stats.vercel.app/api?username=lion0078&show_icons=true&theme=radical&hide_title=false&hide_rank=false&include_all_commits=true&count_private=true&custom_title=Estadísticas%20de%20Ronald&border_radius=15&line_height=30" alt="GitHub Stats" width="480">
+  <img src="https://github-readme-stats.vercel.app/api?username=lion0078&show_icons=true&theme=radical&hide_title=false&hide_rank=false&include_all_commits=true&count_private=true&border_radius=15&line_height=30" alt="GitHub Stats" width="480">
 
   <br><br>
 
